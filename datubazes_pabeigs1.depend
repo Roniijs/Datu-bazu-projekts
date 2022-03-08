@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646733406 source:z:\kodesana\datubazes_pabeigs1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<stdio.h>
+	<bits/stdc++.h>
+
